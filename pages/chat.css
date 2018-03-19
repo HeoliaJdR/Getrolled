@@ -1,0 +1,91 @@
+#body
+{
+  border-collapse:collapse;
+  background-color:grey;
+  margin:auto;
+  width:50%;
+  border-radius:10px;
+  overflow:hidden;
+}
+
+#titre
+{
+  text-align:center;
+  font-family:Comic Sans MS;
+  font-size:medium;
+  color:white;
+  background-color:silver;
+}
+
+#form
+{
+  height:100px;
+  padding:2%;
+  background-color:silver;
+}
+
+#chat_aff
+{
+  width:95%;
+  height:100%;
+  background-color:white;
+  margin:auto;
+  overflow-y:scroll;
+}
+
+#form2
+{
+  width:100%;
+  border-collapse:collapse;
+  text-align:center;
+}
+#name
+{
+  border-radius:10px;
+  padding:4%;
+  width:100%;
+}
+#message
+{
+  border-radius:10px;
+  padding:2%;
+  width:100%;
+}
+#submit
+{
+  width:80%;
+  padding:2%;
+  border-radius:10px;
+  font-family:Comic Sans MS;
+  font-size:medium;
+}
+
+#table_message
+{
+  width:100%;
+  font-size:small;
+  font-family:Comic Sans MS;
+  border-collapse:collapse;
+  table-layout:fixed;
+}
+
+.info_message
+{
+  overflow:hidden;
+  font-size:x-small;
+  padding:1%;
+}
+.message
+{
+  width:80%;
+  x-overflow:hidden;
+  y-overflow:visible;
+  text-align:left;
+  padding:1%;
+}
+.message2
+{
+  width:100%;
+  overflow:hidden;
+  word-break: break-all;
+}
