@@ -1,6 +1,6 @@
 # [GetRolled] - by Hugo Wolf, Medhi Foulgoc & Cédric Byzwceski
 
-## Technical Demo - Back-End
+## Technical Demo - Powered by Bootstrap
 
 * Features - Chatbox
 * Features - Account Management
